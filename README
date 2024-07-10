@@ -1,0 +1,28 @@
+/*
+    //Case 1: Divisor is greater than Dividend
+    int64_t a = 30;
+    int64_t b = 60;
+    printf("Finding Quotient and remainder for 30/60\n");
+    Division(60,30);
+
+    //Case 2: Divisor is smaller than Dividend
+    a = 30;
+    b = 15;
+    printf("Finding Quotient and remainder for 30/15\n");
+    Division(15,30);
+
+    //Case 3: Divisor is equal to Dividend
+    a = 30;
+    b = 30;
+    printf("Finding Quotient and remainder for 30/30\n");
+    Division(30,30);
+
+    //Case 4: Divisor is Zero
+    a = 30;
+    b = 0;
+    printf("Finding Quotient and remainder for 30/0\n");
+    Division(0,30);
+*/ 
+/*I have tested the code for all cases and it works perfectly.
+My code has functions for binary to decimal conversion and decimal to binary conversion. The flowchart given in the manual was followed.
+*/
